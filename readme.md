@@ -11,5 +11,5 @@ Get Hubot to tell you the next inbound and outbound times for a luas at a partic
 ## Configuration:
 
 ## Commands:
- hubot luas outbound Balally
- hubot luas inbound harcourt
+ hubot luas outbound <stop>
+ hubot luas inbound <stop>

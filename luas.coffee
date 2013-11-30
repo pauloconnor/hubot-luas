@@ -10,8 +10,8 @@
 # Configuration:
 #
 # Commands:
-#   hubot luas outbound Balally
-#   hubot luas inbound harcourt
+#   hubot luas outbound <stop>
+#   hubot luas inbound <stop>
 
 urlencode = require('urlencode');
 
